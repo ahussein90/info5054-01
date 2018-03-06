@@ -36,11 +36,14 @@ and open the template in the editor.
                         <li class="nav-item">
                             <a class="nav-link" href="clothes.php">Clothes</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Shoes</a>
+                        </li>
                     </ul>
                     <form class="form-inline my-2 my-lg-0">
                         <a href="signin.php" class="btn btn-outline-success my-2 my-sm-0" type="submit" style="margin-right: 10px;">Sign In</a>
                         <a href="signout.php" class="btn btn-outline-danger my-2 my-sm-0" type="submit" style="margin-right: 10px;">Sign Out</a>
-                        <button type="button" class="btn btn-link"><?php if(isset($_SESSION['user'])) echo "Welcome " . $_SESSION['user'];?></button>
+                        <button type="button" class="btn btn-link"><?php if (isset($_SESSION['user'])) echo "Welcome " . $_SESSION['user']; ?></button>
                 </div>
 
 
