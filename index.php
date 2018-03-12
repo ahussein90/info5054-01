@@ -18,7 +18,7 @@ and open the template in the editor.
             <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img class="d-block w-100" src="images/electrnics.jpg" alt="Electronics" width="300" height="300">
+                        <img class="d-block w-100" src="images/electronics.jpg" alt="Electronics" width="300" height="300">
                     </div>
                     <div class="carousel-item">
                         <img class="d-block w-100" src="images/clothes.jpg" alt="Clothes" width="300" height="300">
