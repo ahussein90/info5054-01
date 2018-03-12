@@ -39,6 +39,9 @@ and open the template in the editor.
                         <li class="nav-item">
                             <a class="nav-link" href="shoes.php">Shoes</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Other</a>
+                        </li>
                     </ul>
                     <form class="form-inline my-2 my-lg-0">
                         <a href="signin.php" class="btn btn-outline-success my-2 my-sm-0" type="submit" style="margin-right: 10px;">Sign In</a>
