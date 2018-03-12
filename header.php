@@ -38,7 +38,7 @@ and open the template in the editor.
                             <a class="nav-link" href="clothes.php">Clothes</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Shoes</a>
+                            <a class="nav-link" href="shoes.php">Shoes</a>
                         </li>
                     </ul>
                     <form class="form-inline my-2 my-lg-0">
