@@ -26,6 +26,7 @@ and open the template in the editor.
                 </button>
 
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <h1>This is a nav bar</h1>
                     <ul class="navbar-nav mr-auto">
                         <li class="nav-item active">
                             <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
