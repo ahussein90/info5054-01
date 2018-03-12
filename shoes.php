@@ -11,10 +11,10 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Electronics</title>
+        <title>Shoes</title>
     </head>
     <body>
-        <h1>Electronics page coming soon...</h1>
+        <h1>Shoes page coming soon...</h1>
         <?php
         // put your code here
         ?>
