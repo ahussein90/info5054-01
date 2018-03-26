@@ -1,6 +1,6 @@
-<?php
-include 'header.php';
-?>
+<?php require_once('initialize.php'); ?>
+
+<?php include 'header.php'; ?>
 
 <!DOCTYPE html>
 <!--
